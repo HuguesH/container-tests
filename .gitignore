@@ -13,6 +13,9 @@
 *.tar.gz
 *.rar
 
+#Maven
+target
+
 #idea
 *.iml
 .idea/
