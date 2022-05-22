@@ -4,12 +4,6 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
 # Package Files #
 *.jar
 *.war
@@ -20,5 +14,5 @@
 *.rar
 
 #idea
-/java-build/java-build.iml
+*.iml
 .idea/
